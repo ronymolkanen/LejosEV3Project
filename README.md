@@ -1,9 +1,9 @@
 # Introduction
-This project is about coding the LeJOS EV3 robot to follow a line and avoid obstacles.
+This is a school project. The project is part of the module called **Software Development**. Main idea of the project is to code the LeJOS EV3 robot to follow a line and avoid obstacles.
 
 ## Project team:
 * Rony Mölkänen
-* [Mikael Rokkanen](https://github.com/MikaelR1)
+* Mikael Rokkanen
 * Samppa Saarinen
 * Samuli Ronni
 
@@ -13,3 +13,11 @@ This project is about coding the LeJOS EV3 robot to follow a line and avoid obst
 * Get familiar with multithreading in Java
 * Get the robot moving by following the line
 * Make the robot avoid upcoming obstacles
+
+## Tools & skills
+* Eclipse IDE
+* Java
+* Multithreading
+* SCRUM
+* Jira & Confluence
+* Github
